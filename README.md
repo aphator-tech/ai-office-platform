@@ -2,7 +2,7 @@
 
 A modern web platform where users can access a team of autonomous AI agents that collaborate to complete user requests. Think of it as a digital company with AI employees working together.
 
-![AI Office Dashboard](https://via.placeholder.com/800x400?text=AI+Office+Dashboard)
+# AI Office Dashboard
 
 ## Features
 
